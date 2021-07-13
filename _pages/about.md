@@ -1,9 +1,12 @@
 ---
 layout: about
 title: About Me
-author: Johnathan Smith
+author: 안종표
 image: assets/images/about/author.jpg
 signature: assets/images/about/signature.png
 ---
-
-abcdefg
+<b>&quot; IOS 개발자를 향해 정진한다.&quot;</b>
+&quot; 안녕하세요. 저는 IOS 개발자가 되고싶은 안종표라고 합니다. <br>&quot;
+<b>&quot; IOS 개발자를 향해 정진한다.&quot;</b>
+&quot; 안녕하세요. 저는 IOS 개발자가 되고싶은 안종표라고 합니다. <br>&quot;
+IOS 앱개발을 알고 시작하게 된 계기는 2학년 때 안드로이드 과목을 이수하였는데, 저는 아이폰을 쓰고있었습니다. 당시, apk파일을 만들어서 폰으로 구동해보고 싶었으나, 아이폰이라 불가능 했고 마침 앱개발에 관심이 생기고 있던 저는 IOS개발을 해볼까? 라는 생각이 들었고 공부해보고 싶었지만, 맥북이라는 커다란 장벽에 막혀 잠시 보류 하였다가 방학에 아르바이트를 하여 맥북을 장만하였습니다. 개발을 공부하고 프로젝트를 해보니 재밌었고 다른 사람들이 내가 만든 앱을 사용한다는게 감회가 새로웠습니다. 그렇게 현재 열심히 IOS개발자가 되기 위해 여러가지 기술스택을 공부하고 프로젝트를 만들어보면서 부지런하게 정진하고 있습니다.
