@@ -81,7 +81,7 @@ work-process:
 # My Team Section
 team:
   - title : "정보처리 기능사"
-    image : "dddd"
+    date : "dddd"
     designation : "발행일 : 2019.05"
 
   - title : "SQL개발자(SQLD자격)"
