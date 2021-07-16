@@ -98,10 +98,10 @@ work-process:
 
 skills-title: Skills
 skills:
-- {name: Web Design, color: '#fdb157', value: '90%'}
-- {name: Logo Design, color: '#9473e6', value: '60%'}
-- {name: After Effects, color: '#bdecf6', value: '80%'}
-- {name: Web App, color: '#ffbcaa', value: '70%'}
+- {name: Swift, color: '#FF8C00', value: '70%'}
+- {name: Unity, color: '#D3D3D3', value: '50%'}
+- {name: Java, color: '#bdecf6', value: '30%'}
+- {name: Python, color: '#ffbcaa', value: '30%'}
 
 
 #-------------------------------
