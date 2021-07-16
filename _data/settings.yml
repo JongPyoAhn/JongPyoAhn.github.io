@@ -6,7 +6,7 @@ logo:
 author: themefisher
 description: this is meta description
 email: whdvy95@gmail.com
-phone: +82 7763 2458
+phone: +82)10 7763 2458
 address: 인천광역시 부평구
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
@@ -65,32 +65,32 @@ blurb-btn-name: 더보기...
 
 # Work Process Section
 work-process:
-  - title : "Research and Plan"
+  - title : "제 5회 인하 창의/융합 캡스톤 디자인"
     icon : "assets/images/icons/plan.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "Unity를 활용하여 건축과 학생 3명과 컴퓨터시스템과 학생 3명이 함께 본교(인하공업전문대학)의 건물을 새로 디자인하고 안에서 캐릭터가 건물을 돌아다니고 조명을 끼고 끄는등의 액션을 취하도록 하였습니다. 저는 이 프로젝트에서 캐릭터의 움직임과 이동콘솔 및 터치시 점프 등을 구현하였습니다."
     
-  - title : "Design and Develop"
+  - title : "채우기 위해 노력중입니다."
     icon : "assets/images/icons/design.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "반드시 채우겠습니다."
     
-  - title : "Deliver"
+  - title : "채우기 위해 노력중입니다."
     icon : "assets/images/icons/print.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "반드시 채우겠습니다."
 
 
 # My Team Section
-#team:
-#  - title : "Jack Schenziwe"
-#    image : "assets/images/team/member-1.png"
-#    designation : "Project Manager"
-#
-#  - title : "Julias Carlie"
-#    image : "assets/images/team/member-2.png"
-#    designation : "Web Developer"
-#
-#  - title : "John Doe"
-#    image : "assets/images/team/member-3.png"
-#    designation : "Designer"
+team:
+  - title : "정보처리 기능사"
+    image : "assets/images/team/member-1.png"
+    designation : "발행처 : 한국 산업인력 공단 "
+
+  - title : "SQL개발자(SQLD자격)"
+    image : "assets/images/team/member-2.png"
+    designation : ""
+
+  - title : "John Doe"
+    image : "assets/images/team/member-3.png"
+    designation : "Designer"
 
 
 #-------------------------------
@@ -100,8 +100,8 @@ skills-title: Skills
 skills:
 - {name: Swift, color: '#FF8C00', value: '70%'}
 - {name: Unity, color: '#D3D3D3', value: '50%'}
-- {name: Java, color: '#bdecf6', value: '30%'}
-- {name: Python, color: '#ffbcaa', value: '30%'}
+- {name: Java, color: '#ffbcaa', value: '30%'}
+- {name: Python, color: '#bdecf6', value: '30%'}
 
 
 #-------------------------------
