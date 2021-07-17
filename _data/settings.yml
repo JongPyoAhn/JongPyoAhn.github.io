@@ -166,13 +166,15 @@ portfolio-home-items:
     
   - image : "assets/images/portfolio/MusicPlay.png"
     url: "https://github.com/JongPyoAhn/IOS_Study/tree/main/MiniProject/MusicPlay"
+    pdf: ""
 
   - image : "assets/images/portfolio/TodoList.png"
     url: "https://github.com/JongPyoAhn/IOS_Study/tree/main/MiniProject/TodoList"
-
+    pdf: ""
+    
   - image : "assets/images/portfolio/Netflix.png"
     url: "https://github.com/JongPyoAhn/IOS_Study/tree/main/MiniProject/NetflixStyle"
-
+    pdf: ""
 
 # Portfolio Page
 portfolio-label:
@@ -192,26 +194,31 @@ portfolio-label:
 portfolio-items:
   - image : "assets/images/portfolio/길라잡이.png"
     url: "https://github.com/JongPyoAhn/InhaChatBot"
+    pdf: ""
     portfolio-type:
      - type: "solo"
       
   - image : "assets/images/portfolio/MiniProject.png"
     url: "https://github.com/JongPyoAhn/IOS_Study/tree/main/MiniProject"
+    pdf: ""
     portfolio-type:
       - type: "solo"
       
   - image : "assets/images/portfolio/MusicPlay.png"
     url: "https://github.com/JongPyoAhn/IOS_Study/tree/main/MiniProject/MusicPlay"
+    pdf: ""
     portfolio-type:
       - type: "mini"
       
   - image : "assets/images/portfolio/TodoList.png"
     url: "https://github.com/JongPyoAhn/IOS_Study/tree/main/MiniProject/TodoList"
+    pdf: ""
     portfolio-type:
       - type: "mini"
       
   - image : "assets/images/portfolio/Netflix.png"
     url: "https://github.com/JongPyoAhn/IOS_Study/tree/main/MiniProject/NetflixStyle"
+    pdf: ""
     portfolio-type:
       - type: "mini"
 
