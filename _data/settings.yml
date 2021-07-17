@@ -134,14 +134,14 @@ services-title: Hobby
 services:
 - {
     name: 헬스,
-    icon: ti-palette,
+    icon: fab fa-youtube,
     description: '헬스장에서 운동하는것을 좋아하며 현재 3년째 꾸준히 운동하고 있습니다.',
     active: # Add true to select section
   }
 - {
     name: 축구,
     icon: ti-vector,
-    description: '축구를 잘하지는 않지만, 고등학교 시절부터 축구하는 것을 즐겨 코로나 사태 이전까지는 꾸준히 하였습니다.',
+    description: '축구를 잘하지는 않지만, 고등학교 시절부터 축구하는 것을 즐겨 코로나 사태 이전까지는 자주 하였습니다.',
     active: true # Add true to select section
   }
 - {
