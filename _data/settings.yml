@@ -164,14 +164,14 @@ portfolio-home-items:
   - image : "assets/images/portfolio/MiniProject.png"
     url: "https://github.com/JongPyoAhn/IOS_Study/tree/main/MiniProject"
     
-  - image : "assets/images/portfolio/item-3.png"
-    url: "#"
-    
-  - image : "assets/images/portfolio/item-4.png"
-    url: "#"
-    
-  - image : "assets/images/portfolio/item-5.png"
-    url: "#"
+#  - image : "assets/images/portfolio/item-3.png"
+#    url: "#"
+#
+#  - image : "assets/images/portfolio/item-4.png"
+#    url: "#"
+#
+#  - image : "assets/images/portfolio/item-5.png"
+#    url: "#"
 
 
 # Portfolio Page
@@ -198,45 +198,22 @@ portfolio-items:
   - image : "assets/images/portfolio/MiniProject.png"
     url: "https://github.com/JongPyoAhn/IOS_Study/tree/main/MiniProject"
     portfolio-type:
-      - type: "branding"
+      - type: "solo"
       
-  - image : "assets/images/portfolio/item-3.png"
-    url: "#"
+  - image : "assets/images/portfolio/MusicPlay.png"
+    url: "https://github.com/JongPyoAhn/IOS_Study/tree/main/MiniProject/MusicPlay"
     portfolio-type:
-      - type: "illustration"
+      - type: "mini"
       
-  - image : "assets/images/portfolio/item-6.png"
-    url: "#"
+  - image : "assets/images/portfolio/TodoList.png"
+    url: "https://github.com/JongPyoAhn/IOS_Study/tree/main/MiniProject/TodoList"
     portfolio-type:
-      - type: "design"
-      - type: "branding"
+      - type: "mini"
       
-  - image : "assets/images/portfolio/item-8.png"
-    url: "#"
+  - image : "assets/images/portfolio/Netflix.png"
+    url: "https://github.com/JongPyoAhn/IOS_Study/tree/main/MiniProject/NetflixStyle"
     portfolio-type:
-      - type: "illustration"
-      
-  - image : "assets/images/portfolio/item-5.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      
-  - image : "assets/images/portfolio/item-1.png"
-    url: "#"
-    portfolio-type:
-      - type: "branding"
-      
-  - image : "assets/images/portfolio/item-3.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "illustration"
-      - type: "branding"
-      
-  - image : "assets/images/portfolio/item-7.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
+      - type: "mini"
 
 
 #-------------------------------
