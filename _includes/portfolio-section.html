@@ -1,15 +1,6 @@
 {% if site.data.settings.portfolio-home-items %}
 <!-- portfolio -->
 <section class="section">
-  <style>
-    body{ background-color: #F7FFF5;}
-    p { width: 1000px; }
-    img.absolute { 
-      position: absolute;
-      left: 700px;
-      top: 50px;
-    }
-  </style>
   <div class="container">
     <div class="row">
       <div class="col-12 text-center">
@@ -26,7 +17,7 @@
               <a class="btn btn-light btn-sm" href="{{ item.url }}">Detail(Git)</a>
             </div>
           </div>
-          <div class="absolute hover-overlay">
+          <div class="hover-overlay">
             <div class="hover-content">
               <a class="btn btn-light btn-sm" href="{{ item.pdf }}">구현기능 상세보기</a>
             </div>
