@@ -69,13 +69,13 @@ work-process:
     icon : "assets/images/icons/plan.png"
     content : "Unity를 활용하여 건축과 학생 3명과 컴퓨터시스템과 학생 3명이 함께 본교(인하공업전문대학)의 건물을 새로 디자인하고 안에서 캐릭터가 건물을 돌아다니고 조명을 끼고 끄는등의 액션을 취하도록 하였습니다. 저는 이 프로젝트에서 캐릭터의 움직임과 이동콘솔 및 터치시 점프 등을 구현하였습니다."
     
-  - title : "채우기 위해 노력중입니다."
+  - title : "학점"
     icon : "assets/images/icons/design.png"
-    content : "반드시 채우겠습니다."
+    content : "현재 학점은 4.13으로 대학에 입학하고 1학년 때는 철없던 시절 3.68의 학점을 받았으나 군 전역 후 2학년 1학기때 4.5학점으로 과 1등을 하고 2학년 2학기때 3등 3학년 1학기 때 3등을 하였습니다."
     
-  - title : "채우기 위해 노력중입니다."
+  - title : "군필"
     icon : "assets/images/icons/print.png"
-    content : "반드시 채우겠습니다."
+    content : "대한민국 남자라면 반드시 이행해야하는 국방의 의무를 무사히 마치고 전역하였습니다."
 
 
 # My Team Section
