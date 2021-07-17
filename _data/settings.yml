@@ -81,16 +81,16 @@ work-process:
 # My Team Section
 team:
   - title : "정보처리 기능사"
-    date : "dddd"
+    date : "발행처 : 한국산업인력공단"
     designation : "발행일 : 2019.05"
 
   - title : "SQL개발자(SQLD자격)"
-    date : "dddddd"
-    designation : ""
+    date : "발행처 : 한국데이터베이스진흥센터"
+    designation : "발행일 : 2021.06"
 
-  - title : "John Doe"
-    date : "eeeeeee"
-    designation : "Designer"
+  - title : "컴퓨터활용능력 1급"
+    date : "발행처 : 대한상공회의소"
+    designation : "2021.04"
 
 
 #-------------------------------
