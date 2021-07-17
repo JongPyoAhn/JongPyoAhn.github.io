@@ -96,21 +96,22 @@ team:
 #-------------------------------
 # Skills Section
 
-skills-title: Skills
+skills-title: 사용가능 기술
 skills:
 - {name: Swift, color: '#FF8C00', value: '70%'}
 - {name: Unity, color: '#D3D3D3', value: '50%'}
-- {name: Java, color: '#ffbcaa', value: '30%'}
+- {name: Java, color: '#ffbcaa', value: '50%'}
 - {name: Python, color: '#bdecf6', value: '30%'}
+- {name: Android, color: '#90EE90', value: '20%'}
 
 
 #-------------------------------
 # Exprerience Section
 
-experience-title: Experience
+experience-title: 외부활동
 experience:
-- {name: 인천 VR/AR 전문인력 양성교육, icon: 'icon-1.png', date: '2020.07 - 2020.08', organization: '인천테크노파크'}
-- {name: IOS 앱 개발, icon: 'icon-2.png', date: '2021.03 - 2021.08', organization: 'FastCampus'}
+- {name: 인천 VR/AR 전문인력 양성교육, icon: 'icon-1.png', date: '2020.07 - 2020.08', organization: '기관명 : 인천테크노파크'}
+- {name: IOS 앱 개발, icon: 'icon-2.png', date: '2021.03 - 2021.08', organization: '기관명. : FastCampus'}
 #- {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
 
 
