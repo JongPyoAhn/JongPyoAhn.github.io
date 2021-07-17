@@ -161,17 +161,17 @@ portfolio-home-items:
   - image : "assets/images/portfolio/길라잡이.png"
     url: "https://github.com/JongPyoAhn/InhaChatBot"
     
-  - image : "assets/images/portfolio/MiniProject.png"
-    url: "https://github.com/JongPyoAhn/IOS_Study/tree/main/MiniProject"
+#  - image : "assets/images/portfolio/MiniProject.png"
+#    url: "https://github.com/JongPyoAhn/IOS_Study/tree/main/MiniProject"
     
-#  - image : "assets/images/portfolio/item-3.png"
-#    url: "#"
-#
-#  - image : "assets/images/portfolio/item-4.png"
-#    url: "#"
-#
-#  - image : "assets/images/portfolio/item-5.png"
-#    url: "#"
+  - image : "assets/images/portfolio/MusicPlay.png"
+    url: "https://github.com/JongPyoAhn/IOS_Study/tree/main/MiniProject/MusicPlay"
+
+  - image : "assets/images/portfolio/TodoList.png"
+    url: "https://github.com/JongPyoAhn/IOS_Study/tree/main/MiniProject/TodoList"
+
+  - image : "assets/images/portfolio/Netflix.png"
+    url: "https://github.com/JongPyoAhn/IOS_Study/tree/main/MiniProject/NetflixStyle"
 
 
 # Portfolio Page
