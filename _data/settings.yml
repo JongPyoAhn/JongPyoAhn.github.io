@@ -90,7 +90,7 @@ team:
 
   - title : "컴퓨터활용능력 1급"
     date : "발행처 : 대한상공회의소"
-    designation : "2021.04"
+    designation : "발행일 : 2021.04"
 
 
 #-------------------------------
@@ -109,9 +109,9 @@ skills:
 
 experience-title: Experience
 experience:
-- {name: Junior UX Designer, icon: 'icon-1.png', date: 'Jan 2007 - Feb 2009', organization: 'WEBEX'}
-- {name: UX & UI Designer, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
-- {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
+- {name: 인천 VR/AR 전문인력 양성교육, icon: 'icon-1.png', date: '2020.07 - 2020.08', organization: '인천테크노파크'}
+- {name: IOS 앱 개발, icon: 'icon-2.png', date: '2021.03 - 2021.08', organization: 'FastCampus'}
+#- {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
 
 
 #-------------------------------
