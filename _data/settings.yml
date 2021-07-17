@@ -134,7 +134,7 @@ services-title: Hobby
 services:
 - {
     name: 헬스,
-    icon: fa-youtube,
+    icon: fab fa-youtube,
     description: '헬스장에서 운동하는것을 좋아하며 현재 3년째 꾸준히 운동하고 있습니다.',
     active: # Add true to select section
   }
