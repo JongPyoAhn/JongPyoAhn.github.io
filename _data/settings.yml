@@ -109,22 +109,22 @@ skills:
 #-------------------------------
 # Exprerience Section
 
-experience-title: 외부활동
+experience-title: 대외활동
 experience:
 - {name: 인천 VR/AR 전문인력 양성교육, icon: 'icon-1.png', date: '2020.07 - 2020.08', organization: '기관명 : 인천테크노파크'}
-- {name: IOS 앱 개발, icon: 'icon-2.png', date: '2021.03 - 2021.08', organization: '기관명. : FastCampus'}
+- {name: IOS 앱 개발, icon: 'icon-2.png', date: '2021.03 - 2021.08', organization: '기관명 : FastCampus'}
 #- {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
 
 
 #-------------------------------
 # Education Section
 
-education-title: Education
+education-title: 학력사항
 education:
-- {name: Marters in UX Design, date: '2006', organization: 'Masassusets Institute of Technology'}
-- {name: Honours in Fine Arts, date: '2004', organization: 'Harvard University'}
-- {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School'}
-- {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School'}
+#- {name: M, date: '2006', organization: 'Masassusets Institute of Technology'}
+- {name: 컴퓨터시스템과, date: '2022(예정)', organization: '인하공업전문대학'}
+- {name: 고등학교 졸업, date: '2017', organization: '인천고등학교'}
+- {name: 중학교 졸업, date: '2014', organization: '동암중학교'}
 
 
 #-------------------------------
