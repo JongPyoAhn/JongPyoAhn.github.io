@@ -129,8 +129,8 @@ education:
 
 #-------------------------------
 # Services Section
-
-services-title: Hobby
+# 아이콘 같은경우에는 FontAweSome사이트 사용했고, Services-Section파일안에 Section 바로밑에 선언해둿음.
+services-title: 취미
 services:
 - {
     name: 헬스,
