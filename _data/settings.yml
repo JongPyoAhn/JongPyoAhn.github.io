@@ -111,8 +111,8 @@ skills:
 
 experience-title: Available
 experience:
-- {name: FireBase, icon: 'firebase.png', date: '프로젝트명 : 인하공전길라잡이', organization: '인증과 데이터베이스를 활용해 보았습니다.'}
-- {name: IOS 앱 개발, icon: 'icon-2.png', date: '2021.03 - 2021.08', organization: '기관명 : FastCampus'}
+- {name: 파이어베이스, icon: 'firebase.png', date: '프로젝트명 : 인하공전길라잡이', organization: '인증과 데이터베이스를 활용해 보았습니다.'}
+- {name: 왓슨어시스턴트, icon: 'watson.png', date: '프로젝트명 : 인하공전길라잡이', organization: '왓슨어시스턴트를 활용하여 챗봇 모델을 학습하고 API를 사용하여 채팅할 수 있게 하였습니다.'}
 #- {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
 
 
