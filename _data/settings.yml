@@ -101,7 +101,7 @@ skills:
 - {name: Swift, color: '#FF8C00', value: '70%'}
 - {name: Unity, color: '#D3D3D3', value: '50%'}
 - {name: Java, color: '#ffbcaa', value: '40%'}
-- {name: SQL, color: '1E90FF', value: '40%'}
+- {name: SQL, color: '0000FF', value: '40%'}
 - {name: Python, color: '#bdecf6', value: '30%'}
 - {name: Android, color: '#90EE90', value: '20%'}
 
