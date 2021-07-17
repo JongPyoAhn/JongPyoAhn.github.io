@@ -130,24 +130,24 @@ education:
 #-------------------------------
 # Services Section
 
-services-title: Services
+services-title: Hobby
 services:
 - {
-    name: UI Design,
+    name: 헬스,
     icon: ti-palette,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    description: '헬스장에서 운동하는것을 좋아하며 현재 3년째 꾸준히 운동하고 있습니다.',
     active: # Add true to select section
   }
 - {
-    name: UX Design,
+    name: 축구,
     icon: ti-vector,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    description: '축구를 잘하지는 않지만, 고등학교 시절부터 축구하는 것을 즐겨 코로나 사태 이전까지는 꾸준히 하였습니다.',
     active: true # Add true to select section
   }
 - {
-    name: Interaction Design,
+    name: 유튜브 시청,
     icon: ti-panel,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    description: '유튜브를 시청하면서 피트니스, 개그, VLOG를 주로 봅니다. 영상을 시청하면서 영상의 퀄리티와 영상을 찍기위해 했을 노력을 생각하며 즐겨봅니다.',
     active: # Add true to select section
   }
 
