@@ -177,24 +177,23 @@ portfolio-home-items:
 # Portfolio Page
 portfolio-label:
 - {
-    title : "UI/UX Design",
-    type : "design"
+    title : "솔로프로젝트",
+    type : "solo"
   }
 - {
-    title : "BRANDING",
-    type : "branding"
+    title : "팀프로젝트",
+    type : "team"
   }
 - {
-    title : "ILLUSTRATION",
-    type : "illustration"
+    title : "미니프로젝트",
+    type : "mini"
   }
 
 portfolio-items:
   - image : "assets/images/portfolio/길라잡이.png"
     url: "https://github.com/JongPyoAhn/InhaChatBot"
     portfolio-type:
-     - type: "design"
-     - type: "illustration"
+     - type: "solo"
       
   - image : "assets/images/portfolio/MiniProject.png"
     url: "https://github.com/JongPyoAhn/IOS_Study/tree/main/MiniProject"
