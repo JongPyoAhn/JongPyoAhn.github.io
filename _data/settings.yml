@@ -65,7 +65,7 @@ blurb-btn-name: 더보기...
 
 # Work Process Section
 work-process:
-  - title : "제 5회 인하 창의/융합 캡스톤 디자인"
+  - title : "제 5회 인하 창의/융합 캡스톤 디자인(은상 수상)"
     icon : "assets/images/icons/plan.png"
     content : "Unity를 활용하여 건축과 학생 3명과 컴퓨터시스템과 학생 3명이 함께 본교(인하공업전문대학)의 건물을 새로 디자인하고 안에서 캐릭터가 건물을 돌아다니고 조명을 끼고 끄는등의 액션을 취하도록 하였습니다. 저는 이 프로젝트에서 캐릭터의 움직임과 이동콘솔 및 터치시 점프 등을 구현하였습니다."
     
