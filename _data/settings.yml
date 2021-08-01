@@ -162,7 +162,7 @@ services:
 portfolio-home-items:
   - image : "assets/images/portfolio/길라잡이.png"
     url: "https://github.com/JongPyoAhn/InhaChatBot"
-    pdf: ""
+    pdf: "assets/images/portfolio/안종표_inhaChatbot"
 #  - image : "assets/images/portfolio/MiniProject.png"
 #    url: "https://github.com/JongPyoAhn/IOS_Study/tree/main/MiniProject"
     
